@@ -3,13 +3,13 @@
 rare_map
 =============
 
-Relational db to ActiveREcord models MAPper
+Relational db to ActiveRecord models Mapper
 
 It does the reverse engineering to convert existing databases to ActiveRecord models.
 
 Features:
 
- 1. Rebuiding assocauations.
+ 1. Rebuiding associations.
 
  2. Rebuiding attribute accessors(Optional in Rails 4).
 
